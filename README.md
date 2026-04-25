@@ -5,3 +5,5 @@ Conditional files cover flaw handling (false dichotomies, invalid premises, unde
 Always-load files cover pre-execution checks, ongoing monitoring throughout execution, a pre-finalization sweep for claim-level verification, and a post-execution reflection step.
 
 The skill is designed to earn its overhead. Conditional files only load when their triage condition is met, keeping always-load cost stable regardless of how many files are added. Instructions are held to an impact-per-token standard: high-frequency, non-redundant, and broad enough to fire across multiple task types.
+
+Download criticial-thinking.zip from Dropbox at https://tinyurl.com/yarzjde3
